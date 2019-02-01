@@ -1,3 +1,7 @@
+package rpg;
+
+import rpg.ElfMage;
+
 public class ElfSquadronFactiry extends SquadronFactory {
 
     @Override

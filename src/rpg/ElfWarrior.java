@@ -1,3 +1,5 @@
+package rpg;
+
 public class ElfWarrior implements Warrior {
 
     @Override

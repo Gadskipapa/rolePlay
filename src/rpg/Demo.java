@@ -1,8 +1,10 @@
+package rpg;
+
 import java.util.Scanner;
 
 public class Demo {
 
-    private static  Squadron getSquadron(String type) {
+    private static Squadron getSquadron(String type) {
         Squadron squadron = null;
         SquadronFactory squdronfactory;
 

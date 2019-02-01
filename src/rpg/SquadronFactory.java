@@ -1,3 +1,5 @@
+package rpg;
+
 public abstract class SquadronFactory {
 
     public abstract Mage createMage();

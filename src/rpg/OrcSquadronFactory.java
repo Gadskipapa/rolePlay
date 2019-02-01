@@ -1,3 +1,7 @@
+package rpg;
+
+import rpg.OrcArcher;
+
 public class OrcSquadronFactory extends SquadronFactory {
 
     @Override

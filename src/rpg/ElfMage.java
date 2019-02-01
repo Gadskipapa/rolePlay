@@ -1,3 +1,5 @@
+package rpg;
+
 public class ElfMage implements Mage {
 
     @Override
